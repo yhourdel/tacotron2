@@ -1,0 +1,4 @@
+__pycache__
+.ipynb_checkpoints
+tacotron2_statedict.pt
+waveglow_256channels.pt
